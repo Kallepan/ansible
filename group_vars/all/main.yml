@@ -1,0 +1,8 @@
+username: user
+packages: 
+  - nano
+  - curl
+  - wget
+  - htop
+shell: /bin/bash
+ssh_port: 22
